@@ -41,7 +41,6 @@
 void ltc1298_Init();
 uint16_t ltc1298_Read(uint8_t mode, uint8_t bitOrder );
 
-void SPI_MasterInit(void);
-uint8_t SPI_MasterTransmit(uint8_t cData);
+
 
 #endif
