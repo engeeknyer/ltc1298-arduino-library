@@ -2,6 +2,11 @@
 #include "Arduino.h"
 
 
+void SPI_MasterInit(void);
+uint8_t SPI_MasterTransmit(uint8_t cData);
+
+
+
 void ltc1298_Init(){
   SPI_MasterInit();
 }

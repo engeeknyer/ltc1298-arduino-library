@@ -12,8 +12,6 @@
 
 ltc1298_Init	KEYWORD2
 ltc1298_Read	KEYWORD2
-SPI_MasterInit	KEYWORD2
-SPI_MasterTransmit	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
