@@ -1,0 +1,33 @@
+################################
+# Syntax Coloring Map 
+################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ltc1298_Init	KEYWORD2
+ltc1298_Read	KEYWORD2
+SPI_MasterInit	KEYWORD2
+SPI_MasterTransmit	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CH0	LITERAL1
+CH1	LITERAL1
+DF0	LITERAL1
+DF1	LITERAL1
+LSB	LITERAL1
+MSB	LITERAL1
+DD_SS	LITERAL1
+DD_MOSI	LITERAL1
+DD_MISO	LITERAL1
+DD_SCK	LITERAL1
+
+
